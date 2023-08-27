@@ -1,122 +1,61 @@
-<div style="align: center">
-  <img src="https://www.shutterstock.com/image-vector/programmer-engineering-development-illustration-developer-project-1095220631" alt="Header" width="800">
-</div>
+<!-- Header image -->
+<img width="100%" alt="Web Developer" src="https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1812&q=80">
 
-# <div style="align: center">Hi there, I'm Natnael Yigzaw 👋</div>
+<!-- Introduction -->
+<h1 align="center" style="font-weight: bold;">Hi there, I'm Natnael Yigzaw 👋</h1>
+<h3 align="center">FullStack Web Developer | MERN | Flutter | UI/UX Designer | Tech Enthusiast</h3>
 
-<div style="align: center"><b>FullStack Web Developer | MERN | Flutter | UI/UX Designer | Tech Enthusiast</b></div>
+<!-- Animated coding GIF -->
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<div style="margin-top: 20px; align: left">
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=Natnael-Yigzaw&color=green" alt="Profile Views" style="margin-right: 10px; align: center">
-    <div><b>Profile Views:</b></div>
-  </div>
-  <div>
-    I'm passionate about creating clean, user-friendly web experiences and exploring the latest technologies. Welcome to my GitHub profile, where you can find a collection of my projects and contributions.
-  </div>
-</div>
+<!-- Profile views -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Natnael-Yigzaw&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+</p>
 
-<div style="display: flex; align-items: center;">
-  <div>
-    <dl>
-      <dt>🔭 I’m currently working on:</dt>
-      <dd>🚀 MERN Stack project for my startup business</dd>
-      
-      <dt>💬 Ask me about:</dt>
-      <dd>📚 MERN, Flutter, and others</dd>
-      
-      <dt>📫 How to reach me:</dt>
-      <dd>✉️ natnaelky2020@gmail.com</dd>
-    </dl>
-  </div>
-  <div style="flex: 1; margin-left: 20px;">
-    <img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" alt="Programmer GIF" height="300">
-  </div>
-</div>
+<!-- Information -->
+<ul style="list-style: none; padding-left: 0;">
+  <li>
+    <b>🔭 I’m currently working on:</b> MERN Stack project for my startup business
+  </li>
+  <li>
+    <b>💬 Ask me about:</b> ** MERN, Flutter, and others **
+  </li>
+  <li>
+    <b>📫 How to reach me:</b>
+    <a href="mailto:natnaelky2020@gmail.com">natnaelky2020@gmail.com</a>
+  </li>
+  <li>
+    ⚡ <b>Fun fact:</b> Debugging is finding and removing errors in code. Originated from a real bug – a moth trapped in a computer! 😂
+  </li>
+</ul>
 
-⚡ Fun fact Debugging: Finding and removing errors in code. Originated from a real bug – a moth trapped in a computer!😂
+<!-- Description -->
+<p align="center">
+  I'm passionate about creating clean, user-friendly web experiences and exploring the latest technologies. Welcome to my GitHub profile, where you can find a collection of my projects and contributions.
+</p>
 
-## 📱 Connect with Me
+<!-- Connect with Me -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/natnael-yigzaw-41b8a2256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://https://www.linkedin.com/in/natnael-yigzaw-41b8a2256/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/natnaelky2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/natnaelky2020" height="30" width="40" /></a>
+</p>
 
-<div style="display: flex; align-items: center;">
-  <div>
-    <a href="mailto:natnaelky2020@gmail.com">
-      <img src="https://fontawesome.com/icons/envelope?style=solid" alt="Email" style="margin-right: 10px;">
-    </a>
-  </div>
-  <div>
-    <a href="https://www.linkedin.com/in/natnael-yigzaw-41b8a2256/">
-      <img src="https://fontawesome.com/icons/linkedin?style=brands" alt="LinkedIn" style="margin-right: 10px;">
-    </a>
-  </div>
-  <div>
-  <a href="https://medium.com/@natnaelky2020">
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/svgs/brands/medium.svg" alt="Medium" style="margin-right: 10px;">
-  </a>
-</div>
+<!-- Languages and Tools -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-## 💻 Languages and Tools
+<!-- GitHub Stats -->
+<p align="center">&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=Natnael-Yigzaw&show_icons=true" alt="GitHub Stats">
+</p>
 
-<div style="display: flex; align-items: center;">
-  <div>
-    <img src="https://fontawesome.com/icons/html5?style=brands" alt="HTML5" style="margin-right: 10px;">
-  </div>
-  <div>
-    <img src="https://fontawesome.com/icons/css3?style=brands" alt="CSS3" style="margin-right: 10px;">
-  </div>
-  <div>
-    <img src="https://fontawesome.com/icons/javascript?style=brands" alt="JavaScript" style="margin-right: 10px;">
-  </div>
-  <div>
-    <img src="https://fontawesome.com/icons/react?style=brands" alt="React" style="margin-right: 10px;">
-  </div>
-  <div>
-    <img src="https://fontawesome.com/icons/node-js?style=brands" alt="Node.js">
-  </div>
-  <div>
-    <img src="https://fontawesome.com/icons/java?style=brands" alt="Java" style="margin-right: 10px;">
-  </div>
-  <div>
-    <img src="https://fontawesome.com/icons/python?style=brands" alt="Python" style="margin-right: 10px;">
-  </div>
-  <div>
-    <img src="https://fontawesome.com/icons/php?style=brands" alt="PHP" style="margin-right: 10px;">
-  </div>
-  <div>
-    <img src="https://fontawesome.com/icons/c-sharp?style=brands" alt="C#" style="margin-right: 10px;">
-  </div>
-  <div>
-    <img src="https://fontawesome.com/icons/mysql?style=brands" alt="MySQL" style="margin-right: 10px;">
-  </div>
-  <div>
-    <img src="https://fontawesome.com/icons/mongodb?style=brands" alt="MongoDB" style="margin-right: 10px;">
-  </div>
-  <div>
-    <img src="https://fontawesome.com/icons/git?style=brands" alt="Git" style="margin-right: 10px;">
-  </div>
-  <div>
-    <img src="https://fontawesome.com/icons/visual-studio-code?style=brands" alt="VS Code">
-  </div>
-  <div>
-    <img src="https://fontawesome.com/icons/sass?style=brands" alt="Sass" style="margin-right: 10px;">
-  </div>
-  <div>
-    <img src="https://fontawesome.com/icons/bootstrap?style=brands" alt="Bootstrap" style="margin-right: 10px;">
-  </div>
-  <div>
-    <img src="https://fontawesome.com/icons/figma?style=brands" alt="Figma" style="margin-right: 10px;">
-  </div>
-  <div>
-    <img src="https://fontawesome.com/icons/wordpress?style=brands" alt="WordPress">
-  </div>
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Natnael-Yigzaw&" alt="Natnael-Yigzaw" /></p>
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Natnael-Yigzaw&show_icons=true)
-
-<div style= "align: center">
+<!-- Buy Me a Coffee -->
+<!-- <div align="center">
   <a href="https://www.buymeacoffee.com/yourprofile" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 40px !important;width: 150px !important;" >
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 40px !important;width: 150px !important;">
   </a>
-</div>
+</div> -->
