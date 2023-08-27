@@ -1,12 +1,12 @@
 <!-- Header image -->
-<img width="100%" alt="Web Developer" src="https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1812&q=80">
+<img width="100%" alt="Web Developer" height="50%" src="https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1812&q=80">
 
 <!-- Introduction -->
 <h1 align="center" style="font-weight: bold;">Hi there, I'm Natnael Yigzaw 👋</h1>
 <h3 align="center">FullStack Web Developer | MERN | Flutter | UI/UX Designer | Tech Enthusiast</h3>
 
 <!-- Animated coding GIF -->
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <!-- Profile views -->
 <p align="left">
@@ -28,15 +28,14 @@
   <li>
     ⚡ <b>Fun fact:</b> Debugging is finding and removing errors in code. Originated from a real bug – a moth trapped in a computer! 😂
   </li>
+  <li>
+    I'm passionate about creating clean, user-friendly web experiences and exploring the latest technologies.
+  <li>
 </ul>
 
-<!-- Description -->
-<p align="left">
-  I'm passionate about creating clean, user-friendly web experiences and exploring the latest technologies. 
-</p>
-<p align="center">
+<h3 align="center">
   Welcome to my GitHub profile, where you can find a collection of my projects and contributions.
-</p>
+</h3>
 
 <!-- Connect with Me -->
 <h3 align="left">Connect with me:</h3>
@@ -48,8 +47,7 @@
 <!-- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/></a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
@@ -70,11 +68,11 @@
 </p>
 
 <!-- GitHub Stats -->
-<p align="center">&nbsp;
+<p align="left">&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=Natnael-Yigzaw&show_icons=true" alt="GitHub Stats">
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Natnael-Yigzaw&" alt="Natnael-Yigzaw" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Natnael-Yigzaw&" alt="Natnael-Yigzaw" /></p>
 
 <!-- Buy Me a Coffee -->
 <!-- <div align="center">
