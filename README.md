@@ -1,15 +1,14 @@
 <div style="align: center">
-  <img src="https://www.shutterstock.com/image-vector/programmer-engineering-development-illustration-developer-project-1095220631" alt="Header" width="800">
+  <img src="[https://www.shutterstock.com/image-vector/programmer-engineering-development-illustration-developer-project-1095220631](https://www.shutterstock.com/image-vector/web-development-coding-programming-responsive-layout-1449924503)" alt="Header" width="800">
 </div>
 
 # <div style="align: center">Hi there, I'm Natnael Yigzaw 👋</div>
 
 <div style="align: center"><b>FullStack Web Developer | MERN | Flutter | UI/UX Designer | Tech Enthusiast</b></div>
 
-<div style="margin-top: 20px; align: left">
+<div style="margin-top: 25px; align: left">
   <div>
     <img src="https://komarev.com/ghpvc/?username=Natnael-Yigzaw&color=green" alt="Profile Views" style="margin-right: 10px; align: center">
-    <div><b>Profile Views:</b></div>
   </div>
   <div>
     I'm passionate about creating clean, user-friendly web experiences and exploring the latest technologies. Welcome to my GitHub profile, where you can find a collection of my projects and contributions.
@@ -19,14 +18,14 @@
 <div style="display: flex; align-items: center;">
   <div>
     <dl>
-      <dt>🔭 I’m currently working on:</dt>
-      <dd>🚀 MERN Stack project for my startup business</dd>
+  <dt>🔭 I’m currently working on:</dt>
+  <dd>🚀 MERN Stack project for my startup business</dd>
       
-      <dt>💬 Ask me about:</dt>
-      <dd>📚 MERN, Flutter, and others</dd>
-      
-      <dt>📫 How to reach me:</dt>
-      <dd>✉️ natnaelky2020@gmail.com</dd>
+  <dt>💬 Ask me about:</dt>
+  <dd>📚 MERN, Flutter, and others</dd>
+  
+  <dt>📫 How to reach me:</dt>
+  <dd>✉️ natnaelky2020@gmail.com</dd>
     </dl>
   </div>
   <div style="flex: 1; margin-left: 20px;">
