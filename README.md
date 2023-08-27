@@ -6,7 +6,7 @@
 <h3 align="center">FullStack Web Developer | MERN | Shopify | UI/UX Designer | Tech Enthusiast</h3>
 
 <!-- Animated coding GIF -->
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="350px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <!-- Profile views -->
 <p align="left">
@@ -15,21 +15,31 @@
 
 <!-- Information -->
 <div>
-<ul>
-    <li><b>🔭 I’m currently working on:</b> MERN Stack project for my startup business</li>
-    <li><b>💬 Ask me about:</b> MERN, Flutter, and others</li>
-    <li><b>📫 How to reach me:</b>
-    <a href="mailto:natnaelky2020@gmail.com">natnaelky2020@gmail.com</a></li>
-    <li>⚡ <b>Fun fact:</b> Debugging is finding and removing errors in code. Originated from a real bug – a moth trapped in a computer! 😂</li>
-    <li>I'm passionate about creating clean, user-friendly web experiences and exploring the latest technologies</li>
+    <ul style="list-style: none; padding-left: 0;">
+      <li>
+        <b>🔭 I’m currently working on:</b> MERN Stack project for my startup business
+      </li>
+      <li>
+        <b>💬 Ask me about:</b> MERN, Flutter, and others
+      </li>
+      <li>
+        <b>📫 How to reach me:</b>
+        <a href="mailto:natnaelky2020@gmail.com">natnaelky2020@gmail.com</a>
+      </li>
+      <li>
+        I'm passionate about creating clean, user-friendly web experiences and exploring the latest technologies
+      </li>
+      <li>
+        <b>⚡ Fun fact:</b> Debugging is finding and removing errors in code. Originated from a real bug – a moth trapped in a computer! 😂
+      </li>
     </ul>
-<div>
+</div>
 
-<!-- Introduction to my account-->
+<!-- Description -->
 <div>
-  <h3 align="center">
+<h3 align="center">
     Welcome to my GitHub profile, where you can find a collection of my projects and contributions.
-  </h3>
+</h3>
 </div>
 
 <!-- Connect with Me -->
@@ -104,14 +114,14 @@
       </a>
       <br>Node.js
     </td>
+    </tr>
+    <tr>
     <td align="center">
       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
       </a>
       <br>MongoDB
     </td>
-   </tr>
-    <tr>
     <td align="center">
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
@@ -158,16 +168,17 @@
 </table>
 
 <!-- GitHub Stats -->
-<div style="display: flex; align-items: flex-start; margin-top: 20px;">
+<!-- GitHub Stats, Streak Stats, and Most Used Languages - Side by Side -->
+<div style="display: flex; align-items: flex-start;">
   <div style="flex: 1; margin-right: 20px;">
     <p align="left">
       <img src="https://github-readme-stats.vercel.app/api?username=Natnael-Yigzaw&show_icons=true" alt="GitHub Stats">
     </p>
   </div>
   <div style="flex: 1; margin-right: 20px;">
-    <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Natnael-Yigzaw" alt="Natnael-Yigzaw Streak Stats"></p>
+    <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Natnael-Yigzaw" alt="Natnael-Yigzaw Streak Stats"></p>
   </div>
   <div style="flex: 1;">
-    <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natnael-Yigzaw&layout=compact" alt="Top Languages"></p>
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natnael-Yigzaw&layout=compact" alt="Top Languages"></p>
   </div>
 </div>
