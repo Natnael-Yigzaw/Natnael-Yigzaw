@@ -25,7 +25,7 @@
     </ul>
 <div>
 
-<h3 align="center">
+<h3 align="center" style="margin-top: 10px">
   Welcome to my GitHub profile, where you can find a collection of my projects and contributions.
 </h3>
 
