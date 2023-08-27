@@ -71,8 +71,6 @@
       </a>
       <br>jQuery
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
@@ -123,8 +121,6 @@
       </a>
       <br>MongoDB
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
@@ -143,14 +139,14 @@
       </a>
       <br>Figma
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/>
       </a>
       <br>Photoshop
     </td>
+    </tr>
+    <tr>
     <td align="center">
       <a href="https://laravel.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
@@ -170,7 +166,6 @@
       <br>C++
     </td>
   </tr>
-
 </table>
 
 <!-- <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
