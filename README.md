@@ -3,7 +3,7 @@
 
 <!-- Introduction -->
 <h1 align="center" style="font-weight: bold;">Hi there, I'm Natnael Yigzaw 👋</h1>
-<h3 align="center">FullStack Web Developer | MERN | Flutter | UI/UX Designer | Tech Enthusiast</h3>
+<h3 align="center">FullStack Web Developer | MERN | Shopify | UI/UX Designer | Tech Enthusiast</h3>
 
 <!-- Animated coding GIF -->
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -14,22 +14,14 @@
 </p>
 
 <!-- Information -->
-<ul style="list-style: none; padding-left: 0;">
-  <li>
-    <b>🔭 I’m currently working on:</b> MERN Stack project for my startup business
-  </li>
-  <li>
-    <b>💬 Ask me about:</b> MERN, Flutter, and others
-  </li>
-  <li>
-    <b>📫 How to reach me:</b>
-    <a href="mailto:natnaelky2020@gmail.com">natnaelky2020@gmail.com</a>
-  </li>
-  <li>
-    ⚡ <b>Fun fact:</b> Debugging is finding and removing errors in code. Originated from a real bug – a moth trapped in a computer! 😂
-  </li>
-  <li>I'm passionate about creating clean, user-friendly web experiences and exploring the latest technologies.<li>
-</ul>
+<div>
+    -<b>🔭 I’m currently working on:</b> MERN Stack project for my startup business
+    -<b>💬 Ask me about:</b> MERN, Flutter, and others
+    -<b>📫 How to reach me:</b>
+    -<a href="mailto:natnaelky2020@gmail.com">natnaelky2020@gmail.com</a>
+    -⚡ <b>Fun fact:</b> Debugging is finding and removing errors in code. Originated from a real bug – a moth trapped in a computer! 😂
+    -I'm passionate about creating clean, user-friendly web experiences and exploring the latest technologies.
+<div>
 
 <h3 align="center">
   Welcome to my GitHub profile, where you can find a collection of my projects and contributions.
@@ -168,40 +160,17 @@
   </tr>
 </table>
 
-<!-- <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-</a> -->
-
-<!-- <a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a> -->
-
-<!-- <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-</a> -->
-
-<!-- <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-</a> -->
-
-<!-- <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-</a> -->
-
-<!-- <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-  <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
-</a> -->
-
 <!-- GitHub Stats -->
-<p align="left">&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=Natnael-Yigzaw&show_icons=true" alt="GitHub Stats">
-</p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Natnael-Yigzaw&" alt="Natnael-Yigzaw" /></p>
-
-<!-- Buy Me a Coffee -->
-<!-- <div align="center">
-  <a href="https://www.buymeacoffee.com/yourprofile" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 40px !important;width: 150px !important;">
-  </a>
-</div> -->
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1; margin-right: 20px;">
+    <p align="left">
+      <img src="https://github-readme-stats.vercel.app/api?username=Natnael-Yigzaw&show_icons=true" alt="GitHub Stats">
+    </p>
+  </div>
+  <div style="flex: 1; margin-right: 20px;">
+    <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Natnael-Yigzaw" alt="Natnael-Yigzaw Streak Stats"></p>
+  </div>
+  <div style="flex: 1;">
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natnael-Yigzaw&layout=compact" alt="Top Languages"></p>
+  </div>
+</div>
