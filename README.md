@@ -25,9 +25,12 @@
     </ul>
 <div>
 
-<h3 align="center" style="margin-top: 10px">
-  Welcome to my GitHub profile, where you can find a collection of my projects and contributions.
-</h3>
+<!-- Introduction to my account-->
+<div>
+  <h3 align="center">
+    Welcome to my GitHub profile, where you can find a collection of my projects and contributions.
+  </h3>
+</div>
 
 <!-- Connect with Me -->
 <h3 align="left">Connect with me:</h3>
@@ -101,14 +104,14 @@
       </a>
       <br>Node.js
     </td>
-      </tr>
-    <tr>
     <td align="center">
       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
       </a>
       <br>MongoDB
     </td>
+   </tr>
+    <tr>
     <td align="center">
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
@@ -155,16 +158,16 @@
 </table>
 
 <!-- GitHub Stats -->
-<div style="display: flex; align-items: flex-start;">
+<div style="display: flex; align-items: flex-start; margin-top: 20px;">
   <div style="flex: 1; margin-right: 20px;">
     <p align="left">
       <img src="https://github-readme-stats.vercel.app/api?username=Natnael-Yigzaw&show_icons=true" alt="GitHub Stats">
     </p>
   </div>
   <div style="flex: 1; margin-right: 20px;">
-    <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Natnael-Yigzaw" alt="Natnael-Yigzaw Streak Stats"></p>
+    <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Natnael-Yigzaw" alt="Natnael-Yigzaw Streak Stats"></p>
   </div>
   <div style="flex: 1;">
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natnael-Yigzaw&layout=compact" alt="Top Languages"></p>
+    <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natnael-Yigzaw&layout=compact" alt="Top Languages"></p>
   </div>
 </div>
