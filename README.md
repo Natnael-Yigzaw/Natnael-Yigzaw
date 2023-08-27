@@ -31,7 +31,7 @@
       </li>
       <li>
         <b>⚡ Fun fact:</b> Debugging is finding and removing errors in code. Originated from a real bug – a moth trapped in a computer! 😂
-      </li>
+      </li><br>
     </ul>
 </div>
 
