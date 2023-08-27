@@ -15,12 +15,14 @@
 
 <!-- Information -->
 <div>
-    -<b>🔭 I’m currently working on:</b> MERN Stack project for my startup business
-    -<b>💬 Ask me about:</b> MERN, Flutter, and others
-    -<b>📫 How to reach me:</b>
-    -<a href="mailto:natnaelky2020@gmail.com">natnaelky2020@gmail.com</a>
-    -⚡ <b>Fun fact:</b> Debugging is finding and removing errors in code. Originated from a real bug – a moth trapped in a computer! 😂
-    -I'm passionate about creating clean, user-friendly web experiences and exploring the latest technologies.
+<ul>
+    <li><b>🔭 I’m currently working on:</b> MERN Stack project for my startup business</li>
+    <li><b>💬 Ask me about:</b> MERN, Flutter, and others</li>
+    <li><b>📫 How to reach me:</b>
+    <a href="mailto:natnaelky2020@gmail.com">natnaelky2020@gmail.com</a></li>
+    <li>⚡ <b>Fun fact:</b> Debugging is finding and removing errors in code. Originated from a real bug – a moth trapped in a computer! 😂</li>
+    <li>I'm passionate about creating clean, user-friendly web experiences and exploring the latest technologies</li>
+    </ul>
 <div>
 
 <h3 align="center">
@@ -87,8 +89,6 @@
       </a>
       <br>React
     </td>
-  </tr>
-    <tr>
     <td align="center">
       <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
@@ -101,12 +101,8 @@
       </a>
       <br>Node.js
     </td>
-    <td align="center">
-      <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-      </a>
-      <br>Express.js
-    </td>
+      </tr>
+    <tr>
     <td align="center">
       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
@@ -137,8 +133,6 @@
       </a>
       <br>Photoshop
     </td>
-    </tr>
-    <tr>
     <td align="center">
       <a href="https://laravel.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
