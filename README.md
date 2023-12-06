@@ -137,17 +137,17 @@
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1; margin-right: 20px;">
     <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Natnael-Yigzaw&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Natnael's GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Natnael-Yigzaw&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Natnael's GitHub Stats" width="33.3%" />
     </p>
   </div>
   <div style="flex: 1; margin-right: 20px;">
     <p align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Natnael-Yigzaw&theme=radical&hide_border=true" alt="Natnael's GitHub Streak" width="100%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Natnael-Yigzaw&theme=radical&hide_border=true" alt="Natnael's GitHub Streak" width="33.3%" />
     </p>
   </div>
   <div style="flex: 1;">
     <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natnael-Yigzaw&layout=compact&theme=radical&hide_border=true" alt="Natnael's Top Languages" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natnael-Yigzaw&layout=compact&theme=radical&hide_border=true" alt="Natnael's Top Languages" width="33.3%" />
     </p>
   </div>
 </div>
