@@ -16,7 +16,7 @@
 <!-- Information -->
 <ul style="list-style: none; padding-left: 0;">
   <!-- <li><b>🔭 I’m currently working on:</b> MERN Stack project for my startup business</li> -->
-  <li><b>💬 Ask me about:</b> MERN, Flutter, and others.</li>
+  <li><b>💬 Ask me about:</b> MERN, React Native, and UI/UX designing.</li>
   <li><b>📫 How to reach me:</b> <a href="mailto:natnaelky2020@gmail.com">natnaelky2020@gmail.com</a></li>
   <li>⚡ I'm passionate about creating clean, user-friendly web experiences and exploring the latest technologies.</li>
   <!-- <li><b>⚡ Fun fact:</b> Debugging is finding and removing errors in code. Originated from a real bug – a moth trapped in a computer! 😂</li> -->
